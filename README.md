@@ -1,19 +1,13 @@
-# Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos
+# Entendendo algoritmos um guia ilustrado para programadores e curiosos
 
-Este é um repositório criado por mim para alocar todos os exemplos do Livro da Novatec. Serão adicionados aos poucos, minha intenção aqui é atualizar o código de exemplo do livro que se encontra em uma versão desatualziada do python
+Lista de todos os algoritmos apresentados no livro de Aditya y. Bhargava que pode ser adquirido através do [site](https://novatec.com.br/) da Novatec Editora
 
-## Requisitos
+## Executando
 
-Para utilizar os códigos aqui presentes basta ter o python na versão 3.x, você pode verificar a versão do seu python com o seguinte comando
-```bash
-python --version
+Todos os algoritmos estão escritos na linguagem Python 3.9 e estes podem ser executados através do Comando:
+
+```jsx
+python nomedoarquivo.py
 ```
 
-
-
-
-## Contribuições
-Você pode adquirir o livro pelo [link](https://novatec.com.br/livros/entendendo-algoritmos/) (recomendo fortemente)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Duvidas? me envie uma mensagem no [Linkedin](https://www.linkedin.com/in/crystian-veloso-98737519b/) que fico a disposição para esclarece-las .
