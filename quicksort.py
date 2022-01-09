@@ -7,7 +7,7 @@ def qsort(lista):
         return lista
     else:
         # escolhemos o elemento pivo para se basear a ordenação de forma aleatória
-        pivo = random.choice(lista);
+        pivo = lista[0];
         # separar a lista em duas , uma contando os elemtentos menores que o pivo e outra com os maiores
         menores = [ i for i in lista[1:] if i <= pivo]
         maiores = [i for i in lista[1:] if i > pivo]
